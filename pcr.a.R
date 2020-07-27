@@ -1,6 +1,6 @@
 ##### This pcr.a() is for calculating the cycles 4 & 5 and above.
 pcr.a <- function(x.t = x.t, x.a = x.a, errot.t = error.t, error.a = error.a,
- cycles = cycles, n = n, set.val=set.val)
+ cycles = cycles, n = n, set.val = set.val)
 {
      cycle.0 <- rep(set.val, n)
      
