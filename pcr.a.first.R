@@ -1,6 +1,6 @@
 ##### This pcr.a.first() is for calculating the cycles 2 & 3.
 pcr.a.first <- function(x.t = x.t, x.a = x.a, errot.t = error.t, error.a = error.a,
- n = n, set.val=set.val)
+ n = n, set.val = set.val)
 {
      cycle.0 <- rep(set.val, n)
      
